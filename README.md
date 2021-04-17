@@ -9,10 +9,9 @@
 - 👯 I’m looking to collaborate with **other content creators**
 
 ### Connect with me:
-
-<a href="https://twitter.com/react_ui_kit" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="react-ui-kit.com" height="22" width="22" style="filter: invert(100%);" /></a>
-<a href="https://linkedin.com/in/hetmann" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hetmann" height="22" width="22" /></a>
-<a href="https://www.youtube.com/react-ui-kit" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="react-ui-kit.com" height="22" width="22" /></a>
+<a href="https://twitter.com/react_ui_kit" target="_blank"><img src="https://www.vectorlogo.zone/logos/twitter/twitter-official.svg" alt="react-ui-kit.com" height="22" width="22" /></a>
+<a href="https://linkedin.com/in/hetmann" target="_blank"><img src="https://www.vectorlogo.zone/logos/linkedin/linkedin-tile.svg" alt="hetmann" height="22" width="22" /></a>
+<a href="https://www.youtube.com/react-ui-kit" target="_blank"><img src="https://www.vectorlogo.zone/logos/youtube/youtube-icon.svg" alt="react-ui-kit.com" height="22" width="22" /></a>
 
 
 <br />
