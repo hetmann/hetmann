@@ -3,7 +3,7 @@
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/react_ui_kit?label=react_ui_kit&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/hetmann?logo=GitHub&style=for-the-badge)
-![YouTube Subscribers](https://img.shields.io/youtube/channel/subscribers/UCfREdW8U8p9AHDZwau3lapw?label=Youtube&style=for-the-badge)
+![(https://www.youtube.com/react-ui-kit](https://img.shields.io/youtube/channel/subscribers/UCfREdW8U8p9AHDZwau3lapw?label=Youtube&style=for-the-badge)
 
 - 🔭 I’m currently working on [react-ui-kit.com](https://react-ui-kit.com/) & [youtube.com/react-ui-kit](https://www.youtube.com/react-ui-kit)
 - 👯 I’m looking to collaborate with **other content creators**
