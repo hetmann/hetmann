@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Hetmann Wilhelm Iohan</h1>
-<h3 align="center">The Founder of www.react-ui-kit.com</h3>
+<h3 align="center">The Founder of <a href="https://react-ui-kit.com" target="_blank">react-ui-kit.com</a></h3>
 
 ![Twitter Follow](https://img.shields.io/twitter/follow/react_ui_kit?label=react_ui_kit&logo=twitter&style=for-the-badge)
 ![GitHub followers](https://img.shields.io/github/followers/hetmann?logo=GitHub&style=for-the-badge)
@@ -10,9 +10,9 @@
 
 ### Connect with me:
 
-<a href="https://twitter.com/react_ui_kit" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="react-ui-kit.com" height="22" width="22" /></a>
-<a href="https://linkedin.com/in/hetmann" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hetmann" height="22" width="22" /></a>
-<a href="https://www.youtube.com/react-ui-kit" target="blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="react-ui-kit.com" height="22" width="22" /></a>
+<a href="https://twitter.com/react_ui_kit" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="react-ui-kit.com" height="22" width="22" /></a>
+<a href="https://linkedin.com/in/hetmann" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="hetmann" height="22" width="22" /></a>
+<a href="https://www.youtube.com/react-ui-kit" target="_blank"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/youtube.svg" alt="react-ui-kit.com" height="22" width="22" /></a>
 
 
 <br />
